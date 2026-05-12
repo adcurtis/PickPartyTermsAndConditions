@@ -1,12 +1,12 @@
-# Privacy Policy — Pool Party
+# Privacy Policy — Pick Party
 
 **Last updated: May 2026**
 
 ## Overview
 
-Pool Party ("the App") is developed by Digital Beach Software LLC ("we," "us," or "our"). This Privacy Policy explains what information we collect, how we use it, and your rights regarding your data.
+Pick Party ("the App") is developed by Digital Beach Software LLC ("we," "us," or "our"). This Privacy Policy explains what information we collect, how we use it, and your rights regarding your data.
 
-We built Pool Party with a simple principle: **your data belongs to you and stays in your iCloud account.**
+We built Pick Party with a simple principle: **your data belongs to you and stays in your iCloud account.**
 
 ---
 
@@ -31,7 +31,7 @@ We built Pool Party with a simple principle: **your data belongs to you and stay
 
 ## 2. How We Store Your Data
 
-All Pool Party data is stored in **Apple's CloudKit** infrastructure:
+All Pick Party data is stored in **Apple's CloudKit** infrastructure:
 
 - **Your private data** (your picks, your scores) is stored in your **private CloudKit database** — only you and Apple can access it.
 - **Shared pool data** (game results, leaderboards) is stored in a **shared CloudKit zone** visible only to players who were explicitly invited to that pool via iCloud share link.
@@ -43,7 +43,7 @@ Apple's CloudKit Privacy Policy governs the storage and security of your data. S
 
 ## 3. In-App Purchases
 
-Pool Party offers optional premium template purchases through Apple's App Store in-app purchase system. When you make a purchase:
+Pick Party offers optional premium template purchases through Apple's App Store in-app purchase system. When you make a purchase:
 
 - Payment is processed entirely by Apple. We never receive your payment card details.
 - Purchase records (which templates you've bought) are managed by Apple's StoreKit and stored in your iCloud account.
@@ -53,20 +53,20 @@ Pool Party offers optional premium template purchases through Apple's App Store 
 
 ## 4. Push Notifications
 
-If you grant notification permission, Pool Party sends push notifications when:
+If you grant notification permission, Pick Party sends push notifications when:
 - Results are posted in a pool you're in
 - Your pool settings change
 - Scores are updated
 
 Notifications are delivered via Apple Push Notification Service (APNs). We do not store device tokens on any server.
 
-You can disable notifications at any time in iOS Settings → Notifications → Pool Party.
+You can disable notifications at any time in iOS Settings → Notifications → Pick Party.
 
 ---
 
 ## 5. Children's Privacy
 
-Pool Party is not directed at children under 13. We do not knowingly collect personal information from children under 13. If you believe a child under 13 has provided us with personal information, please contact us and we will delete it.
+Pick Party is not directed at children under 13. We do not knowingly collect personal information from children under 13. If you believe a child under 13 has provided us with personal information, please contact us and we will delete it.
 
 ---
 
@@ -74,16 +74,16 @@ Pool Party is not directed at children under 13. We do not knowingly collect per
 
 Your data persists as long as you participate in a pool. When a Game Organizer deletes a pool, all associated records (picks, scores, results) are permanently deleted from CloudKit. There is no recovery.
 
-**To delete all your Pool Party data:**
+**To delete all your Pick Party data:**
 1. Leave all pools you have joined (Swipe left on a pool to Leave Pool in each game).
 2. Delete the app from your device.
-3. To remove residual iCloud data: Settings → [your name] → iCloud → Manage Account Storage → delete Pool Party data.
+3. To remove residual iCloud data: Settings → [your name] → iCloud → Manage Account Storage → delete Pick Party data.
 
 ---
 
 ## 7. Third-Party Services
 
-Pool Party fetches publicly available sports scores from a public scoreboard API to assist Game Organizers with entering results. This data is read-only; no user data is sent.
+Pick Party fetches publicly available sports scores from a public scoreboard API to assist Game Organizers with entering results. This data is read-only; no user data is sent.
 
 ---
 
@@ -103,4 +103,4 @@ Support: admin@digitalbeachsoftware.com
 
 ---
 
-*Pool Party is an independent app and is not affiliated with, endorsed by, or sponsored by Apple Inc., the NFL, FIFA, or any other league or broadcaster referenced in the app.*
+*Pick Party is an independent app and is not affiliated with, endorsed by, or sponsored by Apple Inc., the NFL, or any other league or broadcaster referenced in the app.*
